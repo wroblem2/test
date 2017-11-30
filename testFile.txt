@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  bla bla bla bla
+=======
+bla bla bla bla bla bla
+>>>>>>> 631c70eed5f27c1bb1f23bfbb08d0f5746d22885
